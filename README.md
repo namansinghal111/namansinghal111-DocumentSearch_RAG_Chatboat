@@ -81,7 +81,7 @@ This project enables users to query documents (PDFs, URLs, etc.) and receive con
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/DocumentSearch_RAG_Chatboat.git
+git clone [https://github.com/your-username/DocumentSearch_RAG_Chatboat.git](https://github.com/namansinghal111/DocumentSearch_RAG_Chatboat.git)
 
 # Navigate to project
 cd DocumentSearch_RAG_Chatboat
