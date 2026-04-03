@@ -12,7 +12,8 @@ This project enables users to query documents (PDFs, URLs, etc.) and receive con
 ⚡ Modular and scalable architecture
 🧩 Easy to extend with new data sources
 🏗️ Project Structure
-.
+
+
 ├── data/
 │   ├── attention.pdf
 │   └── url.txt
